@@ -161,11 +161,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Contribution Snake -->
