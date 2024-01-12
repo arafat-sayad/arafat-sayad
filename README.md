@@ -98,9 +98,7 @@
 
 
 
-<h2><img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-skills.png" /><i> Skills & DevTools Stack :</i></h2>
-<h3 align="center">
- 
+
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -162,29 +160,6 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
-</p>
-
-<p align="center"><img src="assets/images/ezgif.com-video-to-gif.gif" alt="Bt">
-    
-<p align="center"><img src="./assets/images/keybord.gif" alt="Bt">
-
-<h2> 📊 GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-<h3 align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U7P4L-IN&theme=dark&border_radius=10&hide_title=true&layout=compact&langs_count=20" alt="GitHub language stats" width="400">
-        </a>
-
-<img src="https://metrics.lecoq.io/U7P4L-IN?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">
-</p>  
-
-  ![U7P4L-IN](https://github-readme-stats.vercel.app/api?username=U7P4L-IN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  
-![U7P4L-IN](https://github-readme-streak-stats.herokuapp.com/?user=U7P4L-IN&theme=dark&hide_border=false)<br/>
-
-<p align="center"><img src="https://hips.hearstapps.com/hmg-prod/images/line-break-1644443423.png" alt="Line Break" width="100%">
-</p>
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=U7P4L-IN&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=U7P4L-IN&theme=default)
