@@ -43,8 +43,8 @@
 <p align="center">
   <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
 
-
-
+  
+ <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
  
 <h3 align="center">
 
