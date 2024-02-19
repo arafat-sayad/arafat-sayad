@@ -14,6 +14,20 @@
 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I’m currently a DevOps specialist and software engineer. Highly motivated
+and detail-oriented professional seeking a DevOps Engineer position to
+contribute to efficiently managing DevOps infrastructure, deploying
+applications, and implementing DevOps practices. I have been working
+with Web-based applications for more than 3 years. I am experienced in
+Linux System administration, DevOps, and digital transformation and
+implementing software applications comprising Web Apps, Web APIs, Data
+Migration, and Integration Apps using Microsoft .NET and Microsoft Azure
+technologies. I have provided professional services by solving real-world
+problems, creating customized solutions to address specific customer
+requirements, and improving overall productivity. I’ve been delivering a
+number of projects for large enterprises, including DevOps, solving any
+problem with Linux, design, scoping, planning, migration, and technical
+documentation.
   
  <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
  
