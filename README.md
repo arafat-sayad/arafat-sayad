@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href="https:arafat.big4tec.com" target="_blank">
+<a href="https://arafat-sayad.netlify.app" target="_blank">
    <img src="https://img.shields.io/badge/-PORTFOLIO-black?logo=dialogflow&style=for-the-badge">
 </a>
 
