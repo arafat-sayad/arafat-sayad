@@ -6,7 +6,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=CodeHole7&label=PROFILE+VIEWS) -->
 
 <p align='center' style='margin: 16px 4px 8px; min-height: 100px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+DevOps+engineer" alt="Welcome to my GitHub Profile. I am a passionate full-stack software engineer." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+DevOps+Engineer" alt="Welcome to my GitHub Profile. I am a passionate DevOps Engineer." />
 </p>
 
 <img src="https://raw.githubusercontent.com/arafat-sayad/arafat-sayad/main/assets/banner.jpg" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
