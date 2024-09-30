@@ -18,7 +18,7 @@ I’m currently a DevOps specialist and software engineer. Highly motivated
 and detail-oriented professional seeking a DevOps Engineer position to
 contribute to efficiently managing DevOps infrastructure, deploying
 applications, and implementing DevOps practices. I have been working
-with Web-based applications for more than 3 years. I am experienced in
+with Web-based applications with over 3 years of experience as a Level 2 DevOps Engineer. I am experienced in
 Linux System administration, DevOps, and digital transformation and
 implementing software applications comprising Web Apps, Web APIs, Data
 Migration, and Integration Apps using Microsoft .NET and Microsoft Azure
